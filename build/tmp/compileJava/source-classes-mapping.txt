@@ -1,4 +1,0 @@
-Main.java
- Main
-MAVGod.java
- MAVGod
